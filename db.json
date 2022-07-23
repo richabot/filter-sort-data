@@ -1,0 +1,139 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "1. Holiday Inn Resort Goa, An IHG Hotel",
+     
+      "cover_photo": "https://media-cdn.tripadvisor.com/media/photo-s/22/1f/a5/23/hotel-aerial-view.jpg",
+    
+      "category": "5star",
+      "price": 5000
+      
+    },
+    {
+      "id": 2,
+      "title": "2. Holiday Inn Resort Goa, An IHG Hotel",
+   
+      "cover_photo": "https://media-cdn.tripadvisor.com/media/photo-s/1b/73/3c/bc/evening-shot.jpg",
+  
+      "category": "3star",
+      "price": 2000
+      
+    },
+    {
+      "id": 3,
+      "title": "1. Holiday Inn Resort Goa, An IHG Hotel",
+ 
+      "cover_photo":"https://media-cdn.tripadvisor.com/media/photo-s/0d/7e/6a/f6/hotel-ibis-styles-goa.jpg",
+    
+      "category": "3star",
+      "price": 15000
+      
+    },
+    {
+      "id": 4,
+      "title": "1. Holiday Inn Resort Goa, An IHG Hotel",
+     
+      "cover_photo": "https://media-cdn.tripadvisor.com/media/photo-s/15/db/57/ea/caravela-beach-resort.jpg",
+     
+      "category": "4star",
+      "price": 1000
+      
+    },
+    {
+      "id": 5,
+      "title": "1. Holiday Inn Resort Goa, An IHG Hotel",
+      
+      "cover_photo": "https://media-cdn.tripadvisor.com/media/photo-s/23/b1/15/38/exterior-view.jpg",
+      
+      "category": "2star",
+      "price": 4000
+      
+    },
+    {
+      "id": 6,
+      "title": "1. Holiday Inn Resort Goa, An IHG Hotel",
+  
+      "cover_photo": "https://media-cdn.tripadvisor.com/media/photo-s/06/20/29/1b/the-lalit-golf-spa-resort.jpg",
+      
+      "category": "1star",
+      "price": 3000
+      
+    },
+    {
+      "id": 7,
+      "title": "1. Holiday Inn Resort Goa, An IHG Hotel",
+
+      "cover_photo": "https://media-cdn.tripadvisor.com/media/photo-s/22/1f/a5/23/hotel-aerial-view.jpg",
+     
+      "category": "3star",
+      "price": 2000
+      
+    },
+    {
+      "id": 8,
+      "title": "1. Holiday Inn Resort Goa, An IHG Hotel",
+ 
+      "cover_photo": "https://thumbs.dreamstime.com/b/library-many-shelves-books-library-many-shelves-books-diminishing-perspective-shallow-dof-159717386.jpg",
+     
+      "category": "1star",
+      "price": 15900
+      
+    },
+    {
+      "id": 9,
+      "title": "1. Holiday Inn Resort Goa, An IHG Hotel",
+   
+      "cover_photo": "https://thumbs.dreamstime.com/b/library-many-shelves-books-library-many-shelves-books-diminishing-perspective-shallow-dof-159717386.jpg",
+      
+      "category": "3star",
+      "price": 14000
+      
+    },
+    {
+      "id": 10,
+      "title": "1. Holiday Inn Resort Goa, An IHG Hotel",
+      
+      "cover_photo": "https://thumbs.dreamstime.com/b/library-many-shelves-books-library-many-shelves-books-diminishing-perspective-shallow-dof-159717386.jpg",
+    
+      "category": "4star",
+      "price": 13000
+    },
+    {
+      "id": 11,
+      "title": "1. Holiday Inn Resort Goa, An IHG Hotel",
+ 
+      "cover_photo": "https://thumbs.dreamstime.com/b/library-many-shelves-books-library-many-shelves-books-diminishing-perspective-shallow-dof-159717386.jpg",
+     
+      "category": "1star",
+      "price": 2000
+    },
+    {
+      "id": 12,
+      "title": "1. Holiday Inn Resort Goa, An IHG Hotel",
+  
+      "cover_photo": "https://thumbs.dreamstime.com/b/library-many-shelves-books-library-many-shelves-books-diminishing-perspective-shallow-dof-159717386.jpg",
+   
+      "category": "5star",
+      "price": 8999
+    },
+    {
+      "id": 13,
+      "title": "1. Holiday Inn Resort Goa, An IHG Hotel",
+   
+      "cover_photo": "https://thumbs.dreamstime.com/b/library-many-shelves-books-library-many-shelves-books-diminishing-perspective-shallow-dof-159717386.jpg",
+  
+      "category": "4star",
+      "price": 999
+    },
+    {
+      "id": 14,
+      "title": "1. Holiday Inn Resort Goa, An IHG Hotel",
+      
+      "cover_photo": "https://thumbs.dreamstime.com/b/library-many-shelves-books-library-many-shelves-books-diminishing-perspective-shallow-dof-159717386.jpg",
+  
+      "category": "5star",
+      "price": 11001
+    }
+  ]
+}
